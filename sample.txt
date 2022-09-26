@@ -1,0 +1,14 @@
+Hello, world!
+
+* Welcome
+
+To this tutorial about Haskell.
+
+Remember that multiple lines with no separation
+are grouped together to a single paragraph
+but list items remain separate.
+
+# Item 1 of a list
+# Item 2 of the same list
+
+# Item 2 of a list
